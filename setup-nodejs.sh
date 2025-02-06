@@ -47,3 +47,4 @@ else
   echo "Failed to start Vite development server. Exiting..."
   exit 1
 fi
+# we using git hup actions no need for this file only for check manually
